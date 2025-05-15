@@ -3,7 +3,7 @@ Este código genera un arreglo de tamaño especificado por el usuario, para post
 
 En la siguiente imagen se puede odservar los resultados obtenidos al aplicar los algoritmos Bubble Sort y Selection Sort para arreglos de tamaño 10, 100, 1000 y 10000 elementos:
 
-![Resultados](T2_C34587-1.png)
+![Resultados](T2_C34587.png)
 
 A partir de estos resultados se puede concluir que el algoritmo Selection Sort es más eficiente que Bubble Sort. Inicialmente, para arreglos pequeños la diferencia no es muy notable, pero a medida que incrementa el tamaño del arreglo, se observa claramente cómo Selection Sort es más eficiente que Bubble Sort.
 
